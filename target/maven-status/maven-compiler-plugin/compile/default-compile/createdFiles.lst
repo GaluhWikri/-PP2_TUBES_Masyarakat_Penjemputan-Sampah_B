@@ -1,0 +1,6 @@
+com\trash\controller\WasteController.class
+com\trash\view\MainView.class
+com\trash\db\DatabaseConnector.class
+com\trash\main\Main.class
+com\trash\model\PickupHistory.class
+com\trash\model\WasteModel.class
